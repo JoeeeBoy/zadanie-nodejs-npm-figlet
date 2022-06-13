@@ -1,0 +1,23 @@
+{
+  "name": "zadanie-nodejs-npm-figlet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeeeBoy/zadanie-nodejs-npm-figlet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeeeBoy/zadanie-nodejs-npm-figlet/issues"
+  },
+  "homepage": "https://github.com/JoeeeBoy/zadanie-nodejs-npm-figlet#readme",
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
+}
